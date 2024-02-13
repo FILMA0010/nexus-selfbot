@@ -11,5 +11,6 @@
   "message_webhook": "The Message has been sent to the webhook",
   "message_banned": "was successfully banned!",
   "message_kicked": "was successfully kicked!",
-  "message_howis": "gay"
+  "message_howis": "gay",
+  "slot_emojis": ["🍒", "💲", "💎", "🍉", "🎯", "⚡", "💵", "🍀", "🔔", "⭐"]
 }
