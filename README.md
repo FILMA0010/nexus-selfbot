@@ -29,6 +29,7 @@
 ## 🧐 About <a name = "about"></a>
 
 Nexus is a Discord Selfbot. This is 100% educational and it is breaking the Discord TOS. (even tho no one cares.)
+Nexus is also 100% customizable, messages and prefix :)
 
 ## 🎥 Demo <a name = "demo"></a>
 [View here](https://cdn.discordapp.com/attachments/1155468514237358171/1206990548527874048/Bildschirmaufzeichnung_vom_13.02.2024_164624.webm)
