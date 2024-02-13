@@ -1,0 +1,15 @@
+{
+  "error_nopermissions": "You don't have permission to use this command!",
+  "error_somethingwentwrong": "Something went wrong!",
+  "error_usernotinserver": "This User is not in the Server!",
+  "error_usermention": "Please mention a User!",
+  "error_nodm": "You cannot use this Command in DM",
+  "error_id": "Please provide a ID",
+  "error_usernotfound": "This user was not found.",
+  "message_latency": "The Latency is ",
+  "message_afk": "Sorry, I'm currently not available!",
+  "message_webhook": "The Message has been sent to the webhook",
+  "message_banned": "was successfully banned!",
+  "message_kicked": "was successfully kicked!",
+  "message_howis": "gay"
+}

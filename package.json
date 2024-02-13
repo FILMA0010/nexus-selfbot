@@ -1,0 +1,18 @@
+{
+  "name": "nexus-selfbot",
+  "version": "0.1.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "naps",
+  "license": "ISC",
+  "dependencies": {
+    "clear-screen": "^1.0.0",
+    "discord.js-selfbot-v13": "^3.1.4",
+    "figlet": "^1.7.0",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^3.3.2"
+  }
+}
