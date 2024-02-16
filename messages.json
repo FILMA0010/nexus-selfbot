@@ -7,10 +7,12 @@
   "error_id": "Please provide a ID",
   "error_usernotfound": "This user was not found.",
   "message_latency": "The Latency is ",
+  "error_iplookup": "Please preffer a specific IP",
   "message_afk": "Sorry, I'm currently not available!",
   "message_webhook": "The Message has been sent to the webhook",
   "message_banned": "was successfully banned!",
   "message_kicked": "was successfully kicked!",
   "message_howis": "gay",
-  "slot_emojis": ["🍒", "💲", "💎", "🍉", "🎯", "⚡", "💵", "🍀", "🔔", "⭐"]
+  "slot_emojis": ["🍒", "💲", "💎", "🍉", "🎯", "⚡", "💵", "🍀", "🔔", "⭐"],
+  "message_8ballresponses": ["Yes", "No", "Eventually", "Dont ask me", "Better not", "Ask again Later", "Im not Sure"]
 }
